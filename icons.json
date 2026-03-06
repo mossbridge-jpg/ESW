@@ -1,6 +1,6 @@
 {
-  "chef": "ESW/chef.png",
-  "wraith": "ESW/wraith.png",
+  "chef": "icons/chef.png",
+  "wraith": "icons/wraith.png",
   "shadow_demon": "icons/shadow_demon.png",
   "town_guard": "icons/town_guard.png"
 }
